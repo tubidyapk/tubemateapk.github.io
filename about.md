@@ -11,10 +11,10 @@ permalink: /about/
   <form action="/">
 
     <label for="fname">İsim</label>
-    <input type="text" id="fname" name="firstname" placeholder="İsminiz..">
+    <input type="text" id="fname" placeholder="İsminiz..">
 
     <label for="subject">Mesaj</label>
-    <textarea id="subject" name="subject" placeholder="Mesajınız.." style="height:200px"></textarea>
+    <textarea id="subject" placeholder="Mesajınız.." style="height:200px"></textarea>
 
     <input type="submit" value="Gönder">
 
