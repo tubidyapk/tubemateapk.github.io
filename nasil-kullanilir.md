@@ -21,7 +21,7 @@ permalink: /nasil-kullanilir/
         <p>TubeMate kurulumu ve kullanımı çok basit bir programdır. Dolayısıyla tam anlamıyla kullanıcı dostudur. Yapmanız gerekenler sadece iki adımdan ibaret:</p>
         <ol>
         <li>Apk dosyasını sitemizden indirin.</li>
-        <li>İndirdiğiniz apk dosyasını çalıştırın. Eğer kurulum esnasında izin isterse "İzin Ver" yazısına tıklayın.</li<
+        <li>İndirdiğiniz apk dosyasını çalıştırın. Eğer kurulum esnasında izin isterse "İzin Ver" yazısına tıklayın.</li>
         </ol>
         <p>Bu adımları yaptığınızda program kurulmuş olacaktır. TubeMate logosuna tıklayıp çalıştırabilirsiniz. Artık tarayıcınızda veya YouTube'da dolaşırken indir butonu göreceksiniz. Bu butona tıklayıp videoları indirebilirsiniz.</p>
       </div>
