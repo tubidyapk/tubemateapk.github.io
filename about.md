@@ -8,27 +8,17 @@ permalink: /about/
 
 ### İletişim
 
-<div class="container">
-  <form action="/">
-    <label for="fname">First Name</label>
+  <form action="/action_page.php">
+
+    <label for="fname">İsim</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
-    <label for="lname">Last Name</label>
-    <input type="text" id="lname" name="lastname" placeholder="Your last name..">
-
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-    </select>
-
-    <label for="subject">Subject</label>
+    <label for="subject">Mesaj</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-    <input type="submit" value="Submit">
+    <input type="submit" value="Gönder">
+
   </form>
-</div>
 
 <style>
 input[type=text], select, textarea {
@@ -53,11 +43,5 @@ input[type=submit] {
 
 input[type=submit]:hover {
     background-color: #45a049;
-}
-
-.container {
-    border-radius: 5px;
-    background-color: #f2f2f2;
-    padding: 20px;
 }
 </style>
