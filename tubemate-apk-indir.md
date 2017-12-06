@@ -30,12 +30,12 @@ permalink: /tubemate-apk-indir/
         <a>İndir</a>
         <br/>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- tubebaglanti -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tubebaglanti2 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-2943359289617623"
-     data-ad-slot="3765492062"
-     data-ad-format="link"></ins>
+     data-ad-slot="9895732240"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
