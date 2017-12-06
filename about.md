@@ -8,13 +8,13 @@ permalink: /about/
 
 ### İletişim
 
-  <form action="/action_page.php">
+  <form action="/">
 
     <label for="fname">İsim</label>
-    <input type="text" id="fname" name="firstname" placeholder="Your name..">
+    <input type="text" id="fname" name="firstname" placeholder="İsminiz..">
 
     <label for="subject">Mesaj</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+    <textarea id="subject" name="subject" placeholder="Mesajınız.." style="height:200px"></textarea>
 
     <input type="submit" value="Gönder">
 
