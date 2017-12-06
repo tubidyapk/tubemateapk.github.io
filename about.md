@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About
+title: Hakkımızda
 permalink: /about/
 ---
-
-### Hakkımızda
 
 <p>Sitemizdeki içerikler sadece faydalı olmak için paylaşılmaktadır ve tamemen ücretsizdir. TubeMate uygulaması taramadan geçirilmiştir. Fakat kullanıcılarımızın tekrar tarama yapmasını tavsiye ediyoruz. İletişim için aşağıdaki formu kullanabilirsiniz.</p>
 
 ### İletişim
 
 <div class="container">
-  <form action="/about/">
+  <form action="/">
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
