@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: TubeMate APK İndir
+permalink: /tubemate-apk-indir/
 ---
 
 <div class="posts">
