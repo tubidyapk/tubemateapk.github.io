@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TubeMate APK İndir
-permalink: /tubemate-apk-indir/
+title: Tubidy APK İndir
+permalink: /tubidy-apk-indir/
 ---
 
 <div class="posts">
@@ -10,11 +10,11 @@ permalink: /tubemate-apk-indir/
 
       <div class="entry">
         <center>
-              <img src="/images/Tubemate-3-0-10.jpg" width="80px" /><br/>
-          İsim: <strong>TubeMate Youtube Downloader</strong><br/>
-              Geliştirici: Devian Studio<br/>
-              Versiyon: 3.0.10 (Son Sürüm)<br/>
-          Boyut: 6.84 MB<br/>
+              <img src="/images/tubidy.png" width="80px" /><br/>
+          İsim: <strong>Tubidy</strong><br/>
+              Geliştirici: Anonim<br/>
+              Versiyon: 1.0.9 (Son Sürüm)<br/>
+          Boyut: 10.6 MB<br/>
           Durum: Temiz <span style="color:green;">&#10004;</span>
         <br/>
  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -40,9 +40,13 @@ permalink: /tubemate-apk-indir/
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-        <h2>TubeMate Son Sürüm Video İndirme Uygulaması</h2>
-        <p>
-        TubeMate en hızlı ve pratik video indirme uygulamalarından birisidir. Android cihazlarda çalışır. Telefonunuzdan veya tabletinizden YouTube ve diğer sitelerdeki/uygulamalardaki videoları ücretsiz olarak indirebilirsiniz. Sitemizdeki içerikler virüssüzdür ve taramadan geçirilmiştir. Farklı sitelerden indirirseniz cihazınıza büyük olasılıkla virüs bulaşır. Bu yüzden indirdiğiniz dosyaları mutlaka virüs taramasından geçirmelisiniz. </p>
+        <h2>Tubidy Nasıl Kullanılır?</h2>
+        <ol>
+  <li>APK dosyasını indirin ve çalıştırın.</li>
+    <li>Arama çubuğunu kullanarak dilediğiniz dosyayı aratın.</li>
+    <li>İzlemek veya dinlemek için klibin üzerine dokunun.</li>
+    <li>Açılan pencerenin yanındaki indirme butonuyla cihazınıza yükleyip daha sonra tekrar dinleyebilirsiniz.</li>
+  </ol>
       </div>
     </article>
   {% endfor %}
