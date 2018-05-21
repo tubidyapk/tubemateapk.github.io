@@ -4,7 +4,7 @@ title: Hakkımızda
 permalink: /about/
 ---
 
-<p>Sitemizdeki içerikler sadece faydalı olmak için paylaşılmaktadır ve tamemen ücretsizdir. TubeMate uygulaması taramadan geçirilmiştir. Fakat kullanıcılarımızın tekrar tarama yapmasını tavsiye ediyoruz. İletişim için aşağıdaki formu kullanabilirsiniz.</p>
+<p>En popüler video ve müzik indirme uygulamalarından birisi olan Tubidy APK dosyasını web sitemizde sunuyoruz. Uygulama hakkında bilgileri, uygulama görsellerini ve indirme bağlantısını anasayfada bulabilirsiniz.</p>
 
 ### İletişim
 
