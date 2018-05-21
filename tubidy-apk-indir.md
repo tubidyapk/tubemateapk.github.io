@@ -10,6 +10,16 @@ permalink: /tubidy-apk-indir/
 
       <div class="entry">
         <center>
+       <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Tubi-otobaglanti -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2943359289617623"
+     data-ad-slot="7820723502"
+     data-ad-format="link"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
               <img src="/images/tubidy.png" width="80px" /><br/>
           İsim: <strong>Tubidy</strong><br/>
               Geliştirici: Anonim<br/>
@@ -17,12 +27,13 @@ permalink: /tubidy-apk-indir/
           Boyut: 10.6 MB<br/>
           Durum: Temiz <span style="color:green;">&#10004;</span>
         <br/>
- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- tubebaglanti2 -->
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Tubi-otobaglanti -->
 <ins class="adsbygoogle"
-     style="display:inline-block;width:200px;height:90px"
+     style="display:block"
      data-ad-client="ca-pub-2943359289617623"
-     data-ad-slot="9895732240"></ins>
+     data-ad-slot="7820723502"
+     data-ad-format="link"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
